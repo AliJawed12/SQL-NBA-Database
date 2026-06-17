@@ -9,7 +9,7 @@ into a normalized schema.
 
 ## Entity-Relationship Model
 
-![NBA ER Diagram](diagrams/nba-er.png)
+![NBA ER Diagram](NBA-ER-Diagram.png)
 
 An earlier draft of the diagram is also included for reference: [`diagrams/NBA-ER-Diagram.png`](diagrams/NBA-ER-Diagram.png).
 
