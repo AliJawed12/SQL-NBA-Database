@@ -1,0 +1,45 @@
+1,Shai Gilgeous-Alexander,Most Valuable Player
+97,Stephon Castle,Rookie of the Year
+63,Evan Mobley,Defensive Player of the Year
+106,Payton Pritchard,Sixth Man of the Year
+108,Dyson Daniels,Most Improved Player
+10,Jalen Brunson,Clutch Player of the Year
+1,Shai Gilgeous-Alexander,1st All-NBA Team
+2,Giannis Antetokounmpo,1st All-NBA Team
+3,Nikola Jokic,1st All-NBA Team
+6,Jayson Tatum,1st All-NBA Team
+24,Donovan Mitchell,1st All-NBA Team
+5,Anthony Edwards,2nd All-NBA Team
+19,LeBron James,2nd All-NBA Team
+18,Stephen Curry,2nd All-NBA Team
+63,Evan Mobley,2nd All-NBA Team
+10,Jalen Brunson,2nd All-NBA Team
+9,Cade Cunningham,3rd All-NBA Team
+20,Karl-Anthony Towns,3rd All-NBA Team
+62,Tyrese Haliburton,3rd All-NBA Team
+37,Jalen Williams,3rd All-NBA Team
+31,James Harden,3rd All-NBA Team
+63,Evan Mobley,1st All-Defensive Team
+108,Dyson Daniels,1st All-Defensive Team
+186,Luguentz Dort,1st All-Defensive Team
+224,Draymond Green,1st All-Defensive Team
+110,Amen Thompson,1st All-Defensive Team
+81,Ivicia Zubac,2nd All-Defensive Team
+35,Jaren Jackson Jr.,2nd All-Defensive Team
+37,Jalen Williamns,2nd All-Defensive Team
+154,Toumani Camara,2nd All-Defensive Team
+145,Rudy Gobert,2nd All-Defensive Team
+97,Stephon Castle,1st All-Rookie Team
+131,Zaccharie Risacher,1st All-Rookie Team
+175,Jaylen Wells,1st All-Rookie Team
+214,Zach Edey,1st All-Rookie Team
+125,Alex Sarr,1st All-Rookie Team
+213,Kel'el Ware,2nd All-Rookie Team
+246,Matas Buzelis,2nd All-Rookie Team
+220,Yves Missi,2nd All-Rookie Team
+319,Donovan Clingan,2nd All-Rookie Team
+198,Bub Carrington,2nd All-Rookie Team
+1,Shai Gilgeous-Alexander,Finals Most Valuable Player
+1,Shai Gilgeous-Alexander,Western Conference Finals Most Valuable Player
+50,Pascal Siakam,Eastern Conference Finals Most Valuable Player
+18,Stephen Curry,All Star MVP
