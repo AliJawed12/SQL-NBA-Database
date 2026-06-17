@@ -141,6 +141,4 @@ Includes queries such as:
 
 ## Security Note
 
-If you're pushing this project to a public repository, **do not** include any
-`.bat`/`.sh` file with real database credentials in it. Use environment
-variables (as shown above) or a `.env` file excluded via `.gitignore`.
+`.bat`/`.sh` file with real database credentials are not include
