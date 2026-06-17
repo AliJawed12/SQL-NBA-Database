@@ -1,0 +1,45 @@
+1,Most Valuable Player
+97,Rookie of the Year
+63,Defensive Player of the Year
+106,Sixth Man of the Year
+108,Most Improved Player
+10,Clutch Player of the Year
+1,1st All-NBA Team
+2,1st All-NBA Team
+3,1st All-NBA Team
+6,1st All-NBA Team
+24,1st All-NBA Team
+5,2nd All-NBA Team
+19,2nd All-NBA Team
+18,2nd All-NBA Team
+63,2nd All-NBA Team
+10,2nd All-NBA Team
+9,3rd All-NBA Team
+20,3rd All-NBA Team
+62,3rd All-NBA Team
+37,3rd All-NBA Team
+31,3rd All-NBA Team
+63,1st All-Defensive Team
+108,1st All-Defensive Team
+186,1st All-Defensive Team
+224,1st All-Defensive Team
+110,1st All-Defensive Team
+81,2nd All-Defensive Team
+35,2nd All-Defensive Team
+37,2nd All-Defensive Team
+154,2nd All-Defensive Team
+145,2nd All-Defensive Team
+97,1st All-Rookie Team
+131,1st All-Rookie Team
+175,1st All-Rookie Team
+214,1st All-Rookie Team
+125,1st All-Rookie Team
+213,2nd All-Rookie Team
+246,2nd All-Rookie Team
+220,2nd All-Rookie Team
+319,2nd All-Rookie Team
+198,2nd All-Rookie Team
+1,Finals Most Valuable Player
+1,Western Conference Finals Most Valuable Player
+50,Eastern Conference Finals Most Valuable Player
+18,All Star MVP

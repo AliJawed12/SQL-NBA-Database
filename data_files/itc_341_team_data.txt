@@ -1,0 +1,32 @@
+
+Abbrev,Team,GM,Head Coach,Franchise Player,Arena
+PHI,Philadelphia Sixers,Elton Brand,Nick Nurse,8,Wells Fargo Center
+BOS,Boston Celtics,Brad Stevens,Joe Mazzulla,6,TD Garden
+BRK,Brooklyn Nets,Sean Marks,Jordi Fernandez,,Barclays Center
+CHO,Charlotte Hornets,Jeff Peterson,Charles Lee,13,Spectrum Center
+CHI,Chicago Bulls,Marc Eversley,Billy Donovan,101,United Center
+CLE,Cleveland Cavaliers,Koby Altman,Kenny Atkinson,63,Rocket Mortgage FieldHouse
+ATL,Atlanta Hawks,Onsi Saleh,Quin Snyder,23,State Farm Arena
+DAL,Dallas Mavericks,Nico Harrison,Jason Kidd,15,American Airlines Center
+DEN,Denver Nuggets,Ben Tenzer,David Adelman,3,Ball Arena
+DET,Detroit Pistons,Trajan Langdon,J.B. Bickerstaff,9,Little Caesars Arena
+GSW,Golden State Warriors,Mike Dunleavy Jr.,Steve Kerr,18,Chase Center
+HOU,Houston Rockets,Rafael Stone,Ime Udoka,56,Toyota Center
+IND,Indiana Pacers,Chad Buchanan,Rick Carlisle,62,Gainbridge Fieldhouse
+LAC,Los Angeles Clippers,Trent Redden,Tyronn Lue,31,Intuit Dome
+LAL,Los Angeles Lakers,Rob Pelinka,JJ Redick,4,Crypto.com Arena
+MEM,Memphis Grizzlies,Zach Kleiman,Tuomas Lisalo,30,FedExForum
+MIA,Miami Heat,Pat Riley,Erik Spoelstra,68,Kaseya Center
+MIL,Milwaukee Bucks,Jon Horst,Doc Rivers,2,Fiserv Forum
+MIN,Minnesota Timberwolves,Matt Lloyd,Chris Finch,5,Target Center
+NOP,New Orleans Pelicans,Bryson Graham,James Borrego,17,Smoothie King Center
+NYK,New York Knicks,Gersson Rosas,Mike Brown,10,Madison Square Garden
+OKC,Oklahoma City Thunder,Sam Presti,Mark Daigneault,1,Paycom Center
+ORL,Orlando Magic,Anthony Parker,Jamahl Mosley,11,Kia Center
+PHO,Phoenix Suns,Brian Gregory,Jordan Ott,12,Mortgage Matchup Center
+POR,Portland Trail Blazers,Joe Cronin,Chauncey Billups,128,Moda Center
+SAC,Sacramento Kings,Scott Perry,Doug Christie,,Golden 1 Center
+SAS,San Antonio Spurs,Brian Wright,Mitch Johnson,21,Frost Bank Center
+TOR,Toronto Raptors,Bobby Webster,Darko Rajaković,52,Scotiabank Arena
+UTA,Utah Jazz,Justin Zanik,Will Hardy,,Delta Center
+WAS,Washington Wizards,Will Dawkins,Brian Keefe,125,Capital One Arena
