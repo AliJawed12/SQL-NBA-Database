@@ -1,0 +1,17 @@
+- Will need to update ER Diagram since for player instead of TeamName foreign key, using TeamKey
+- Since Games are relationships, don't need to make table?
+- franchisePlayer is foreign key referencing playerID, can be null
+- name in Player will instead be, FName, LName
+
+- When initally working on project thought I'd need a function script as well?
+Project Walkthrough
+1. Insert all Team Data
+   - This might cause issues with franchisePlayer, since at this point in time no player data?
+2. Insert all Player Data
+3. Insert all Accolades data
+4. Insert all games played data (need to look at how to do relationships again)
+5. Run queries
+
+
+Questions?
+- For Games Relationship, do I need Away team as foreign key? Why not just have Home be Primary Key?
